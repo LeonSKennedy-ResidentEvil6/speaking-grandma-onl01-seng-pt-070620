@@ -14,9 +14,9 @@
 
 
 def speak_to_grandma(phrase)
-  i fphrase == "I LOVE YOU GRANDMA!" 
-  puts "I LOVE YOU TOO PUMPKIN!"
-    phrase.upcase
+  if phrase == "I LOVE YOU GRANDMA!" 
+    puts "I LOVE YOU TOO PUMPKIN!"
+  elsif phrase.upcase
       puts "HUH?! SPEAK UP, SONNY!"
   elsif 
       

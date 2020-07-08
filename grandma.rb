@@ -15,10 +15,11 @@
 
 def speak_to_grandma(phrase)
   i fphrase == "I LOVE YOU GRANDMA!" 
+  puts "I LOVE YOU TOO PUMPKIN!"
     phrase.upcase
       puts "HUH?! SPEAK UP, SONNY!"
   elsif 
-      puts "I LOVE YOU TOO PUMPKIN!"
+      
   else 
       return "NO, NOT SINCE 1938!"
     end 
